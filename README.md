@@ -226,7 +226,7 @@ curl http://localhost:5000/about
 
 **Ông Thân Quốc Trường**
 - MSSV: 2051220070
-- Email: truong.omgtq@fpt.edu.vn
+- Email: truong_2051220070@dau.edu.vn
 - Lớp: 22CT4
 
 ---
