@@ -108,16 +108,16 @@ devops-mini-project/
 
 #### GitHub Repository
 ```
-https://github.com/[YOUR_USERNAME]/devops-mini-project
+https://github.com/truong2051220070-alt/devops_mini_project
 ```
-*Lưu ý: Cần push project lên GitHub*
+✅ **Status:** Project pushed successfully with all 4 branches!
 
 #### Docker Hub Images
 ```
 Backend:  truongomgtq/devops-mini-backend:latest
 Frontend: truongomgtq/devops-mini-frontend:latest
 ```
-*Lưu ý: Cần push images lên Docker Hub*
+*Lưu ý: Optional - Có thể push images lên Docker Hub nếu cần*
 
 ### 3. 📸 Screenshot Minh Chứng
 
