@@ -161,7 +161,7 @@ curl http://localhost:5000/health
 {
   "status": "ok",
   "app": "DevOps Mini Project API",
-  "timestamp": "2024-01-01T12:00:00.000Z"
+  "timestamp": "2026-04-01T12:00:00.000Z"
 }
 ```
 
