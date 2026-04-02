@@ -325,8 +325,8 @@ curl http://localhost:5000/api/tasks     # Get tasks
 - **Họ tên:** Ông Thân Quốc Trường
 - **MSSV:** 2051220070
 - **Lớp:** 22CT4
-- **Email:** truong.omgtq@fpt.edu.vn
-- **Trường:** FPT University
+- **Email:** truong_2051220070@dau.edu.vn
+- **Trường:** Đại Học Kiến Trúc Đà Nẵng
 
 ---
 

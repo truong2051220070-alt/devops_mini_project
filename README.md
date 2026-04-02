@@ -7,7 +7,7 @@
 - **Họ tên:** Ông Thân Quốc Trường
 - **MSSV:** 2051220070
 - **Lớp:** 22CT4
-- **Đại học:** FPT University
+- **Đại học:** Đại Học Kiến Trúc Đà Nẵng
 
 ## 📋 Mô tả dự án
 

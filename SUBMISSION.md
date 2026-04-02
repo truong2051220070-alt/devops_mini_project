@@ -6,8 +6,8 @@
 - **Họ tên:** Ông Thân Quốc Trường
 - **MSSV:** 2051220070
 - **Lớp:** 22CT4
-- **Email:** truong.omgtq@fpt.edu.vn
-- **Đại học:** FPT University
+- **Email:** truong_2051220070@dau.edu.vn
+- **Đại học:** Đại Học Kiến Trúc Đà Nẵng
 
 ### 2. Giới thiệu Ứng dụng
 
