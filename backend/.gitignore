@@ -1,0 +1,7 @@
+# Backend gitignore
+node_modules/
+npm-debug.log*
+.env.local
+.env.*.local
+.env
+!.env.example
