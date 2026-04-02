@@ -35,8 +35,8 @@ Response:
     "name": "Ông Thân Quốc Trường",
     "id": "2051220070",
     "class": "22CT4",
-    "university": "FPT University",
-    "email": "truong.omgtq@fpt.edu.vn"
+    "university": "Đại Học Kiến Trúc Đà Nẵng",
+    "email": "truong_2051220070@dau.edu.vn"
   },
   "project": {
     "name": "DevOps Mini Project API",
